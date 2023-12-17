@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src"
   ],
-  "SelectedNode": "\\D:\\Rust\\AoC",
+  "SelectedNode": "\\Cargo.toml",
   "PreviewInSolutionExplorer": false
 }
